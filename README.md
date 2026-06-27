@@ -22,15 +22,32 @@ How to install:
    - May keep the copy in the same directory, as long as there is a valid `data.win`
 1. Run `DeltaPatcher.exe`
 1. Drag `data.win` or enter it's file path into "Original file:"
-1. Drag `***.xdelta` or enter it's file path into "XDelta Patch:"
+1. Drag `.xdelta` or enter it's file path into "XDelta Patch:"
 1. Click "Apply patch"
 
 Unworthy has now been modded and you may launch the game as normal
 
-## Always Materialize
+## Mod Descriptions
+
+### QoL Compiled
+
+- Compiles the following mods into a single patch file
+- Use for best QoL experience
+
+### Always Materialize
 
 - The materialize ability gained by picking up the Crow's Eye relic after killing Father Amandil is now always active
+- Healing at kilns no longer instantly brings up the menu
 
-## Faster Lifts
+### Better Menu Selector
 
-- Movement speed on ladders and platforms increased, improving map traversal
+- Can now use spacebar to select menu options, including kiln warping and weapon selection
+
+### Faster Lifts
+
+- Movement speed on ladders, vines, and platforms increased, improving map traversal
+
+### Skip Cutscenes
+
+- Press spacebar, enter, escape, LMB, start on a gamepad, X on Playsation, or B on Xbox to skip certain cutscenes
+- Boss cinematics are not skippable
